@@ -20,7 +20,22 @@ The contract for every public `CVERInc` repository README. Adopted 2026-06-10.
    🌐 日本語の紹介 → [cver.net/ja-jp/oss/<repo>](…) ・ 繁體中文介紹 → [cver.net/zh-tw/oss/<repo>](…)
    ```
 
-4. Product-internal strings (menu names like 請求書, sheet tabs like 設定,
+4. **Exemption — ecosystem-distributed repos.** When a repo is the
+   product's listing page *inside* a third-party ecosystem, translated
+   READMEs are localized store listings, not documentation. A repo
+   qualifies only if ALL three hold:
+
+   - discovery/install flows through the ecosystem, not cver.net
+     (e.g. the Obsidian community plugin browser);
+   - the ecosystem's UI renders the repo README directly to end users;
+   - the audience is end users, not developers.
+
+   Qualifying repos may keep `README.<locale>.md` files, **short-cover
+   only** (pitch + install); deep documentation stays in the English
+   `README.md`. Current roster: `tugtile`, `marktile`. (Homebrew taps do
+   NOT qualify — brew never shows users a README.)
+
+5. Product-internal strings (menu names like 請求書, sheet tabs like 設定,
    button labels) stay verbatim in whatever language the product ships them —
    they are identifiers, not prose. Same for the repo *description* field,
    which may carry non-English keywords for GitHub search discovery.
