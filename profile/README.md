@@ -1,8 +1,8 @@
 # CVER Inc.
 
-> **Delightful digital tools, made since 2011.** A small studio building native-Mac and web software for people who want to *own* their stuff, not rent it — the library you already own, the photos you already took, the browser you already use. Yours, offline, with source you can read.
+> **A small studio building digital tools people actually keep.** Tools we wrote for ourselves — now yours too. Open source, MIT, built to do their job and stay out of your way.
 
-Charming Vision, Endless Recreation. We build what we'd want to use ourselves, ship it open, and keep it sharp. We live with cats 🐱
+Charming Vision, Endless Recreation — since 2011. We live with cats 🐱
 
 ## Native Mac
 
@@ -32,6 +32,4 @@ Runs on your machine, not someone's cloud.
 
 ---
 
-**How we work** — start by solving our own problem · own, don't rent · state the non-goals, because restraint is a feature · the best foot forward is the one that actually works.
-
-[cver.net](https://cver.net) · hi@cver.net · San Francisco, California
+[cver.net](https://cver.net)
