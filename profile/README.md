@@ -12,7 +12,6 @@ Runs on your machine, not someone's cloud.
 - **[reepub](https://github.com/CVERInc/reepub)** — turn the scanned PDFs you own into clean, reflowable EPUB3, with on-device Apple Vision OCR.
 - **[shelfseer](https://github.com/CVERInc/shelfseer)** — talk to the library you already own — notes, documents, books you bound yourself — 100% offline.
 - **[sheersweep](https://github.com/CVERInc/sheersweep)** — the Mac cleaner you can read: open source, dry-run first, never touches your real files.
-- **[signet](https://github.com/CVERInc/signet)** — the shared SwiftUI design system behind these apps.
 
 ## Developer tools
 
