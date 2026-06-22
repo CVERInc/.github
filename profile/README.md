@@ -27,7 +27,7 @@ Runs on your machine, not someone's cloud.
 ## Obsidian
 
 - **[tugtile](https://github.com/CVERInc/tugtile)** — markdown-backed kanban for Obsidian. Tug tiles to reorder.
-- **[marktile](https://github.com/CVERInc/marktile)** — the markdown editor pane from the same family. CJK-friendly.
+- **[marktile](https://github.com/CVERInc/marktile)** — tugtile’s sister plugin: the same editor as a standalone Markdown pane. CJK-friendly.
 
 ---
 
